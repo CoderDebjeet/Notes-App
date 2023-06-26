@@ -26,6 +26,7 @@ How to connect DAO with Repo and create a Singleton Room Database
 3. Making a single Instance of our database using the 💥companion object  💥and use of synchronized while creating to avoid multiple threads access.
 
 4. Creating the Repository (Single source directory to handle  all type of data like offline or online )
+5. Coroutine (suspend)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 3 Branch*
 
