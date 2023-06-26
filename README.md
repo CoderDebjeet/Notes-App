@@ -1,18 +1,19 @@
-# Notes-App
+#Notes-App
 By Making this Notes App we can learn about
+
 *Day  1 Branch* 
 
-1> View Model
-2>Live Data
-3>Room 
-4>Android Architecture Component -- Activities, BroadCast Receivers, Services, Content Providers
+1) View Model
+2) Live Data
+3) Room 
+4) Android Architecture Component -- Activities, BroadCast Receivers, Services, Content Providers
                                 Android COmponent -> Room,WorkManager,Lifecycle,Paging,Navigation,Data Binding
                                 View->View Model ->Model
 ----------------------------------------------------------------------------------------------------------------
 Making of 
 
-1>Create Entity
-2>DAO
+1) Create Entity
+2) DAO
 -----------------------------------------------------------------------
 *Day 2 Branch*
 
@@ -28,9 +29,9 @@ How to connect DAO with Repo and create a Singleton Room Database
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 3 Branch*
 
-1>What is ViewModel | MVVM in Android
-2>  LiveData and Observers
-3> how to connect your View (Activity) with ViewModel.
+1) What is ViewModel | MVVM in Android
+2)  LiveData and Observers
+3) how to connect your View (Activity) with ViewModel.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 4 Branch*
 
