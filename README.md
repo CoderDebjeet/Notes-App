@@ -1,6 +1,7 @@
 # Notes-App
 By Making this Notes App we can learn about
 *Day  1 Branch* 
+
 1> View Model
 2>Live Data
 3>Room 
@@ -13,6 +14,7 @@ Making of
 2>DAO
 -----------------------------------------------------------------------
 *Day 2 Branch*
+
 Insert Find Delete queries in Android Room Database
 How to connect DAO with Repo and create a Singleton Room Database
 1. creating our Notes schema(Model)
@@ -24,6 +26,7 @@ How to connect DAO with Repo and create a Singleton Room Database
 4. Creating the Repository (Single source directory to handle  all type of data like offline or online )
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 3 Branch*
+
 1>What is ViewModel | MVVM in Android
 2>  LiveData and Observers
 3> how to connect your View (Activity) with ViewModel.
