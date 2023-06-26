@@ -34,8 +34,8 @@ How to connect DAO with Repo and create a Singleton Room Database
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 4 Branch*
 
-fetch LiveData from ViewModel 
-Load LiveData from ViewModel into RecyclerView
+1) fetch LiveData from ViewModel 
+2) Load LiveData from ViewModel into RecyclerView
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
