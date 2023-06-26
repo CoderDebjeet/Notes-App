@@ -10,6 +10,7 @@ By Making this Notes App we can learn about
                                 View->View Model ->Model
 ----------------------------------------------------------------------------------------------------------------
 Making of 
+
 1>Create Entity
 2>DAO
 -----------------------------------------------------------------------
@@ -32,6 +33,7 @@ How to connect DAO with Repo and create a Singleton Room Database
 3> how to connect your View (Activity) with ViewModel.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 *Day 4 Branch*
+
 fetch LiveData from ViewModel 
 Load LiveData from ViewModel into RecyclerView
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
